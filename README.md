@@ -1,3 +1,3 @@
-# conference
-Responsive HTML5 Bootstrap 3 template for Event Site
-# iitagne-dsc
+# Demo
+
+https://nishantgandhi99.github.io/iitagne-dsc/
